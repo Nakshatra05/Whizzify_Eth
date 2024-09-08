@@ -9,6 +9,7 @@ Whizzify aims to provide organizations with an easy-to-use tool for creating qui
 ## Problem
 
 Organizations often face challenges in assessing participant engagement and distributing rewards:
+
 - **Manual Quiz Creation**: Crafting quiz questions can be time-consuming and may not accurately reflect the session content.
 - **Reward Management**: Manually managing participant rewards can be cumbersome and prone to errors.
 - **Engagement**: Ensuring active participation during sessions can be difficult without proper incentives.
@@ -16,16 +17,17 @@ Organizations often face challenges in assessing participant engagement and dist
 ## Solution
 
 Whizzify addresses these challenges by offering:
+
 - **Automated Quiz Generation**: Upload session content, and Whizzify generates relevant quiz questions.
-- **Instant Rewards**: Participants receive rewards instantly through their Freighter Wallets for correct answers.
+- **Instant Rewards**: Participants receive rewards instantly through their Ethereum wallets for correct answers.
 - **Streamlined Process**: Organizations simply provide the session content and initial funds for rewards, and Whizzify handles the rest.
 
 ## Technologies Used
 
 - **Blockchain**: For transparent and tamper-proof reward distribution.
-- **Stellar Blockchain**: Leveraging Soroban for secure transactions.
+- **Ethereum Blockchain**: Leveraging smart contracts for secure, automated transactions.
 - **ChatGPT API**: To process content and generate quiz questions.
-- **Freighter Wallet**: For handling participant rewards.
+- **MetaMask Wallet**: For handling participant rewards.
 
 ## Platform Features
 
@@ -33,7 +35,7 @@ Whizzify addresses these challenges by offering:
 
 1. **Active Participation Assessment**: Easily assess participant engagement with quizzes based on session content.
 2. **Automated Quiz Generation**: Upload content, and let Whizzify generate tailored quiz questions.
-3. **Instant Rewards**: Incentivize engagement with immediate rewards distributed via Freighter Wallets.
+3. **Instant Rewards**: Incentivize engagement with immediate rewards distributed via Ethereum wallets.
 4. **Fund Management**: Transfer initial funds to Whizzify for seamless reward distribution.
 
 ### Solving Traditional Problems
@@ -54,6 +56,6 @@ Whizzify addresses these challenges by offering:
 2. **Quiz Generation**: The platform processes the content and generates quiz questions.
 3. **Fund Transfer**: Organizations transfer initial funds to Whizzify for rewarding participants.
 4. **Participant Engagement**: Participants take quizzes through the platform.
-5. **Instant Rewards**: Correct answers are rewarded instantly in participants' Freighter Wallets.
+5. **Instant Rewards**: Correct answers are rewarded instantly in participants' Ethereum wallets.
 
 Whizzify streamlines quiz creation and reward management, providing a comprehensive solution that enhances organizational efficiency and participant engagement.
